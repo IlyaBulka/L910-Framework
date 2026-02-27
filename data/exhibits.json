@@ -1,0 +1,49 @@
+[
+  {
+    "id": "1",
+    "name": "Мона Лиза",
+    "artist": "Леонардо да Винчи",
+    "year": 1503,
+    "isAvailable": true,
+    "createdAt": "2023-01-15T10:00:00.000Z",
+    "materials": [
+      "масло",
+      "дерево"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Звездная ночь",
+    "artist": "Винсент Ван Гог",
+    "year": 1889,
+    "isAvailable": true,
+    "createdAt": "2023-02-20T14:30:00.000Z",
+    "materials": [
+      "масло",
+      "холст"
+    ]
+  },
+  {
+    "id": "1772194826667",
+    "name": "Add your name in the body"
+  },
+  {
+    "id": "1772194845518",
+    "name": "Add your name in the body"
+  },
+  {
+    "id": "1772194894202",
+    "name": "Новый экспонат",
+    "artist": "Художник",
+    "year": 2024,
+    "isAvailable": true,
+    "materials": [
+      "масло",
+      "холст"
+    ]
+  },
+  {
+    "id": "1772194954510",
+    "name": "Add your name in the body"
+  }
+]

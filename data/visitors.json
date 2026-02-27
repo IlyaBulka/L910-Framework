@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Иван Петров",
+    "age": 25,
+    "isStudent": true,
+    "visitDate": "2024-02-15T11:00:00.000Z",
+    "ticketNumber": "A001",
+    "exhibits": ["1", "2"]
+  },
+  {
+    "id": "2",
+    "name": "Анна Сидорова",
+    "age": 32,
+    "isStudent": false,
+    "visitDate": "2024-02-16T14:00:00.000Z",
+    "ticketNumber": "A002",
+    "exhibits": ["1"]
+  }
+]
